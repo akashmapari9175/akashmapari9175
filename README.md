@@ -13,7 +13,7 @@
 - 💬 Ask me about **Spring and spring boot**
 
 - 📫 How to reach me **akshmapari85@gmail.com**
-- 👨‍💻 All of my projects are available at **[akshmapari85@gmail.com](https://github.com/akashmapari9175?tab=repositories)**
+- 👨‍💻 All of my projects are available at **https://github.com/akashmapari9175?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

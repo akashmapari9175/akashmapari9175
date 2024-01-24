@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java , OOPS , Spring**
+- 💬 Ask me about **Java , OOPS , SQL , Spring**
 
 - 📫 How to reach me **akshmapari85@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/akashmapari9175?tab=repositories**
